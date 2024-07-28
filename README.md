@@ -1,12 +1,12 @@
 # Hey! I'm Hashir Khan👋🏻
-<a href="https://discordapp.com/users/824112286233919520/">![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a>
+<a href="https://discordapp.com/users/1107250877082910841/">![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a>
 <a href="mailto:hashirkhanfr@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 🧑🏻‍💻 I'm learning Full-Stack Web Development because why not?
 
 📌 Pakistan
 
-⌨️ Expanding my knowledge 
+📕 There's always something to learn
 
 ## **🛠️ Technologies & Tools I use**
 [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,html,css,js,linux,netlify,vscode)](https://skillicons.dev)
