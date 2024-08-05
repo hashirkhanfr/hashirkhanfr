@@ -9,7 +9,7 @@
 📕 There's always something to learn
 
 ## **🛠️ Technologies & Tools I use**
-[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,html,css,js,linux,netlify,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,linux,vscode)](https://skillicons.dev)
 
 <div align="center">
   
